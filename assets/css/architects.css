@@ -184,6 +184,15 @@ main > section{
 }
 /* main section ends here */
 /* footer section starts here */
+.footer-section{
+    height: 100px;
+    background-color: #FFF4E7;
+    margin: 130px 240px 216px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
+
 /* footer section ends here */
 /* ---------------RESPONSIVE--------------- */
 @media screen and (max-width:576px){
